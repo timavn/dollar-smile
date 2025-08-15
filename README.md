@@ -64,4 +64,4 @@ Neutral/Sideways:           All other periods
 - **Performance Comparison**: Cross-regime return and Sharpe ratio analysis  
 - **Statistical Validation**: ANOVA results and significance testing
 
-- **Final Project Paper**: [View PDF](./final_report.pdf)
+- **Final Project Paper**: [View PDF](./Project-Final-Report.pdf)
