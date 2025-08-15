@@ -63,3 +63,5 @@ Neutral/Sideways:           All other periods
 - **Regime Timeline**: SPY price evolution colored by regime type
 - **Performance Comparison**: Cross-regime return and Sharpe ratio analysis  
 - **Statistical Validation**: ANOVA results and significance testing
+
+- **Final Project Paper**: [View PDF](./final_report.pdf)
